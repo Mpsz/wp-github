@@ -7,8 +7,8 @@ layout: post
 link: >
   https://blog.mpsz.com.bd/welcome-to-mps-zone-bd/
 published: true
-tags: [ ]
+tags: [welcome]
 categories:
-  - Uncategorized
+  - Post of Mpsz
 ---
 welcome to Mps Zone BD - Get Your Best Solution
